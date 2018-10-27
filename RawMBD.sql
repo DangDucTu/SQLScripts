@@ -26,4 +26,6 @@ from BICC_CBD.[dbo].DUONGDTT2_RAWDATA_DUNO_FARMER
 select * 
 from TBL_KPIRESULT_AVGBAL
 
---where dao ='15392'
+
+
+select * from tbl_hr
